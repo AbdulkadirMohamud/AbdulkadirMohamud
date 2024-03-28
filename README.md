@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Typescript/Next.JS**
 - 👯 I’m looking to collaborate on **front end dev Projects**
 - 💬 Ask me about **technologies and Personal development**
-- 📫 How to reach me: **qansax29@gmail.com**
+- 📫 How to reach me: ***
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *I Motivate others to learn how to code*
 ## 🌐 Socials:
