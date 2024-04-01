@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://i.ibb.co/JK1PN3p/cover.jpg" width="400" />
+  <br />
+  <h1>Abdulkadir Mohamud</h1>
+  <h2>Happy Coding!</h2>
+</div>
+
+
 ### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **React Apps**
