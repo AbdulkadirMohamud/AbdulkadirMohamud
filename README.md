@@ -1,5 +1,5 @@
 
-![Abdulkadir Mohamud Happy Coding](https://i.ibb.co/JK1PN3p/cover.jpg){ width=50% }
+![Abdulkadir Mohamud Happy Coding]{ width=50% }
 
 ### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
 
