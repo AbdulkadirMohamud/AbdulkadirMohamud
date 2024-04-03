@@ -1,4 +1,4 @@
-<img width= "100%" src="https://i.ibb.co/k6ywXkz/cover.jpg">
+<img src="https://i.ibb.co/Br2vSvW/cover.jpg" alt="cover" border="0">
 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **React Apps**
