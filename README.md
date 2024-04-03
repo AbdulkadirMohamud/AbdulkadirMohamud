@@ -1,7 +1,3 @@
-<a href="Your Portfolio/Website Link">
-  <img src="https://abdulkadir-mo.imgbb.com/" width="600" alt="Profile Picture" style="object-fit: cover;">
-</a>
-
 https://abdulkadir-mo.imgbb.com/
 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **React Apps**
