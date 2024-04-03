@@ -1,4 +1,5 @@
-https://abdulkadir-mo.imgbb.com/
+ <img width="100%" src="https://abdulkadir-mo.imgbb.com
+<h1 align="center">Hi 👋, I'm Abdulkadir Mohamud </h1>
 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **React Apps**
 - 🌱 I’m currently learning **Typescript/Next.JS**
