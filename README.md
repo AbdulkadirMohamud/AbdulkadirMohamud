@@ -1,5 +1,4 @@
-### Hi there 👋 [![](https://visitcount.itsvg.in/api?id=AbdulkadirMohamud&icon=0&color=0)](https://visitcount.itsvg.in)
-
+https://ibb.co/zVwDtYX
 - 🔭 I’m currently working on **React Apps**
 - 🌱 I’m currently learning **Typescript/Next.JS**
 - 👯 I’m looking to collaborate on **front end dev Projects**
