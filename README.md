@@ -1,5 +1,6 @@
 <img width="100%" src="https://i.ibb.co/GVVbDkF/IMG-20240403-WA0000.jpg">
 <h1 align="center">Hi 👋, I'm abdulkadir Mohamud</h1>
+
 - 🔭 I’m currently working on **React Apps**
 - 🌱 I’m currently learning **Typescript/Next.JS**
 - 👯 I’m looking to collaborate on **front end dev Projects**
