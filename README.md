@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm abdulkadir Mohamud</h1>
 
 - 🔭 I’m currently working on **React/Next.JS Apps**
-- 🌱 I’m currently learning **(Linux )**
+- 🌱 I’m currently learning **(C/C++ )**
 - 👯 I’m looking to collaborate on **front end dev Projects**
 - 💬 Ask me about **technologies and Personal development**
 - 📫 How to reach me: qansax30@hotmail.com
