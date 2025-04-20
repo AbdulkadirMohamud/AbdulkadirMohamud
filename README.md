@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **(C/C++ )**
 - 👯 I’m looking to collaborate on **front end dev Projects**
 - 💬 Ask me about **technologies and Personal development**
-- 📫 How to reach me: qansax30@hotmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: *I Motivate others to learn how to code*
 ## 🌐 Socials:
